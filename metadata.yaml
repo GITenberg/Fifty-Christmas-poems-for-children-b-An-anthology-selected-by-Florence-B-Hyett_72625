@@ -5,7 +5,12 @@ contributor:
     agent_name: Hyett, Florence B.
     gutenberg_agent_id: '56751'
     url: http://www.gutenberg.org/2009/agents/56751
+covers:
+- cover_type: archival
+  image_path: 72625-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72625#Fifty-Christmas-poems-for-children-b-An-anthology-selected-by-Florence-B-Hyett
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
